@@ -18,9 +18,9 @@ I'm passionated about nothing. thx
   
   <a href="https://api.kimzzoffc.me/" target="_blank"><img src="https://i.ibb.co/PN3Xf0c/textprome-160c4ce97b249f.jpg" width="440"></a><br>  
   <div align="left">
-       <a href="https://github.com/kimzzstore/" target="_blank"><img src="https://shields.io/badge/zhwzein-111111.svg?&style=for-the-badge&logo=github"></a>  
-       <a href="https://www.instagram.com/kimzz.store/" target="_blank"><img src="https://shields.io/badge/zhwzein-111111.svg?&style=for-the-badge&logo=instagram"></a>  
-       <a href="https://www.facebook.com/zhwzein.me/" target="_blank"><img src="https://shields.io/badge/zhwzein-111111.svg?&style=for-the-badge&logo=facebook"></a>  
+       <a href="https://github.com/kimzzstore/" target="_blank"><img src="https://shields.io/badge/kimzz-111111.svg?&style=for-the-badge&logo=github"></a>  
+       <a href="https://www.instagram.com/kimzz.store/" target="_blank"><img src="https://shields.io/badge/kimzz-111111.svg?&style=for-the-badge&logo=instagram"></a>  
+       <a href="https://www.facebook.com/zhwzein.me/" target="_blank"><img src="https://shields.io/badge/kimzz-111111.svg?&style=for-the-badge&logo=facebook"></a>  
   </div>
 
 
